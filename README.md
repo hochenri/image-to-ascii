@@ -3,6 +3,8 @@ A python script which converts an image into an ascii art image.
 
 This python script takes a JPEG image, turns it to grayscale and converts each pixel to a corresponding ascii character.
 
+Here is an example.
+
 Input image:
 
 ![input](https://user-images.githubusercontent.com/88751402/147620759-c220a8dd-8ac9-464a-b815-44f27fc02e95.jpg)
